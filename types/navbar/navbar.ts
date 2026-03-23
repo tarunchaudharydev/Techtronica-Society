@@ -3,3 +3,8 @@ export type NavLink = {
   label: string;
   badge?: string;
 }
+
+export type ClubLink = {
+  href: string;
+  label: string;
+}

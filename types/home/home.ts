@@ -6,5 +6,5 @@ export interface AboutSociety{
 
 export interface AboutClub extends AboutSociety{
   purpose: string;
-  purposeDescription: string;
+  purposeDescription: string[];
 }
