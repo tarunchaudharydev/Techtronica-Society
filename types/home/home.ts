@@ -1,7 +1,7 @@
 export interface AboutSociety{
   title: string;
   tagline: string;
-  description: string;
+  description: string[];
 }
 
 export interface AboutClub extends AboutSociety{
