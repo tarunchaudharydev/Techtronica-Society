@@ -5,4 +5,7 @@ export const sponsors: Sponsor[] =[
     name: "Adani",
     logo: "/sponsors/adani.png",
   },
+  {
+    name: ""
+  }
 ];
